@@ -3,14 +3,11 @@ Aplicación basica de búsqueda de productos a través de una imagen QR.
 
 Requisitos para la ejecución del software:
 
-1)	Tener instalado el IDE XCODE 11.3.1 o versiones compatibles.
+1)	Tener instalado el IDE XCODE 11.3.1 o versiones compatibles y una MAC OS/ISO Catalina 10.15.7 v15.7.03.
 
 2)	Instalar las dependencias necesarias para el proyecto, se puede usar el gestor de dependencias CocoaPods. 
 
-   Si se genera un error relacionado con la versión del sistema operativo, se recomienda corregir manualmente la dependencia 
-   para que sea compatible con la versión correspondiente del sistema operativo.
-
-3)	Tener conocimientos básicos en el lenguaje de programación Swift y Storyboards y el manejo de Firebase Firestore y Firebase Storage.
+4)	Tener conocimientos básicos en el lenguaje de programación Swift y Storyboards y el manejo de Firebase Firestore y Firebase Storage.
 
 4)	Contar con un dispositivo iOS o un simulador de iOS para poder ejecutar y probar la aplicación.
 
