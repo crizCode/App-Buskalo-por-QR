@@ -1,17 +1,14 @@
 # App-Buskalo-por-QR
 Aplicación basica de búsqueda de productos a través de una imagen QR.
 
-Recursos:
-
-Algunos lineamientos de los recursos necesarios para la ejecución y configuración del proyecto serán adjuntados junto con los demás entregables.
-
 Requisitos para la ejecución del software:
 
 1)	Tener instalado el IDE XCODE 11.3.1 o versiones compatibles.
 
 2)	Instalar las dependencias necesarias para el proyecto, se puede usar el gestor de dependencias CocoaPods. 
 
-Si se genera un error relacionado con la versión del sistema operativo, se recomienda corregir manualmente la dependencia para que sea compatible con la versión correspondiente del sistema operativo.
+   Si se genera un error relacionado con la versión del sistema operativo, se recomienda corregir manualmente la dependencia 
+   para que sea compatible con la versión correspondiente del sistema operativo.
 
 3)	Tener conocimientos básicos en el lenguaje de programación Swift y Storyboards y el manejo de Firebase Firestore y Firebase Storage.
 
@@ -44,13 +41,48 @@ A continuación, se detallan algunos aspectos visuales relevantes sobre la compo
 ![image](https://user-images.githubusercontent.com/88556496/223901657-803916a2-66b7-48af-afe5-5f5c8c4e4549.png)
 
 
+ARCHIVOS DE PRUEBAS O MEDIOS DE VALIDACIÓN DE RESULTADOS:
 
+I.	Pruebas registro e inicio de sesión del usuario con perfil de comercializador.
 
+1)	Login con autenticación Firebase – Firestore
 
+![image](https://user-images.githubusercontent.com/88556496/223903922-8ebe2e15-5e1d-4b8f-b294-b691d35053c8.png)
 
+2)	Validar registro en BD Firestore
 
+![image](https://user-images.githubusercontent.com/88556496/223904031-80050634-64c0-427d-8d6a-473cae75aac2.png)
 
+3)	Listar Productos
 
+![image](https://user-images.githubusercontent.com/88556496/223904168-43de01f8-6237-4a26-8741-e8cf01bb280e.png)
 
+II.	Pruebas CRUD de Productos
 
+1.	Registrar Producto
 
+![image](https://user-images.githubusercontent.com/88556496/223904339-fcd0f01a-ca09-4aa7-b46a-b590cc6c2e2d.png)
+
+2.	Validar el registro en la lista de productos
+
+![image](https://user-images.githubusercontent.com/88556496/223904407-fd986fcd-41f5-49bf-a1bd-b2fa76000b8f.png)
+
+3.	Editar Producto
+
+![image](https://user-images.githubusercontent.com/88556496/223904558-5528a101-9287-4b82-a5f5-342a1e834e0b.png)
+
+4.	Confirmar edición en listado
+
+![image](https://user-images.githubusercontent.com/88556496/223904631-d13aed54-e9be-4682-942e-b698cbbf6986.png)
+
+5.	Eliminar Producto y validar eliminación en listado
+
+![image](https://user-images.githubusercontent.com/88556496/223904695-4556fdef-8978-48f5-95b1-c3122a8fd79e.png)
+
+6.	Listar desde perfil de cliente/usuario
+
+![image](https://user-images.githubusercontent.com/88556496/223904977-1653ea27-3011-45f3-aee5-8dd5a235d9fc.png)
+
+7.	Búsqueda por QR
+
+![image](https://user-images.githubusercontent.com/88556496/223905161-bd945ac6-6db8-4e11-a0a6-c11014a9b622.png)
