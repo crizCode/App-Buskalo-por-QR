@@ -83,3 +83,5 @@ II.	Pruebas CRUD de Productos
 7.	Búsqueda por QR
 
 ![image](https://user-images.githubusercontent.com/88556496/223905161-bd945ac6-6db8-4e11-a0a6-c11014a9b622.png)
+
+* Nota. Agradecer a mi docente y compañeros de grupo que participaron en el desarrollo de la app.
