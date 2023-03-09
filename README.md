@@ -1,9 +1,12 @@
 # App-Buskalo-por-QR
-Aplicación de búsqueda de productos a través de una imagen QR.
+Aplicación basica de búsqueda de productos a través de una imagen QR.
 
-Recursos
+Recursos:
+
 Algunos lineamientos de los recursos necesarios para la ejecución y configuración del proyecto serán adjuntados junto con los demás entregables.
+
 Requisitos para la ejecución del software:
+
 1)	Tener instalado el IDE XCODE 11.3.1 o versiones compatibles.
 
 2)	Instalar las dependencias necesarias para el proyecto, se puede usar el gestor de dependencias CocoaPods. 
